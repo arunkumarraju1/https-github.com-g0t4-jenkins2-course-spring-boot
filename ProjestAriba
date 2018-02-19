@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+        <title>form 11 29</title> </head>
+
+        <body>
+
+        <form method="post" action="process1.php" name="form1">
+        Name : <input name="Arunkumar" value=""><br>
+        Surname : <input name="Raju"> 
+        <input name="s1" value="Submit LoL !" type="submit"><br>
+
+        <br>
+        <br>
+
+
+        </form>
+
+<br>
+
+</body>
+</html>
